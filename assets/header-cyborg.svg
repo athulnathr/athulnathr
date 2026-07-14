@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Athul Nath  Lead UI Engineer. Human intent. Machine speed.">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Athul Nath â€” Lead UI Engineer. Human intent. Machine speed.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1a1a21"/>
@@ -27,18 +28,18 @@
   <!-- prompt bar -->
   <rect x="80" y="72" width="1040" height="44" rx="6" fill="#1e1e26" stroke="#3a3a44" stroke-width="1"/>
   <text x="96" y="100" fill="#e84848" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">&gt;</text>
-  <text x="116" y="100" fill="#b8bcc8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">find me a lead UI engineer  half craft, half machine, fully accountable</text>
+  <text x="116" y="100" fill="#b8bcc8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">find me a lead UI engineer â€” half craft, half machine, fully accountable</text>
   <rect x="1096" y="86" width="8" height="16" fill="#e84848" opacity="0.9"/>
 
   <!-- headline -->
   <text x="80" y="168" fill="#ededf0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="42" font-weight="700" letter-spacing="-0.02em">Human intent. Machine speed.</text>
 
   <!-- sub line -->
-  <text x="80" y="208" fill="#9a9eaa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">Lead UI Engineer · React · Next.js · agentic workflows · Kozhikode, IN</text>
+  <text x="80" y="208" fill="#9a9eaa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">Lead UI Engineer Â· React Â· Next.js Â· agentic workflows Â· Kozhikode, IN</text>
 
   <!-- status -->
   <circle cx="96" cy="248" r="5" fill="#4ade80"/>
-  <text x="112" y="252" fill="#7dd3fc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">open to lead frontend roles · remote-friendly</text>
+  <text x="112" y="252" fill="#7dd3fc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">open to lead frontend roles Â· remote-friendly</text>
 
   <!-- pulse line -->
   <g opacity="0.85" filter="url(#softGlow)">

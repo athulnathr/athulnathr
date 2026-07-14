@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Athul Nath  Lead UI Engineer. Intent in. Production out.">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Athul Nath â€” Lead UI Engineer. Intent in. Production out.">
   <defs>
     <linearGradient id="bgL" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#ffffff"/>
@@ -19,11 +20,11 @@
   <text x="80" y="168" fill="#1a1a28" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="42" font-weight="700" letter-spacing="-0.02em">Intent in. Production out.</text>
 
   <!-- sub line -->
-  <text x="80" y="208" fill="#5a5e6e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">Lead UI Engineer · React · Next.js · agentic workflows · Kozhikode, IN</text>
+  <text x="80" y="208" fill="#5a5e6e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">Lead UI Engineer Â· React Â· Next.js Â· agentic workflows Â· Kozhikode, IN</text>
 
   <!-- status -->
   <circle cx="96" cy="248" r="5" fill="#22c55e"/>
-  <text x="112" y="252" fill="#3344aa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">open to lead frontend roles · remote-friendly</text>
+  <text x="112" y="252" fill="#3344aa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">open to lead frontend roles Â· remote-friendly</text>
 
   <!-- accent line -->
   <rect x="80" y="286" width="1040" height="3" fill="#3344aa" opacity="0.15" rx="1.5"/>
