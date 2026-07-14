@@ -2,9 +2,9 @@
 <!-- Deploy: see SETUP.md → copy to github.com/athulnathr/athulnathr -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athulnathr/athulnathr/main/assets/header-cyborg.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athulnathr/athulnathr/main/assets/header-light.svg">
-  <img alt="Athul Nath — Lead UI Engineer. Human intent. Machine speed." src="https://raw.githubusercontent.com/athulnathr/athulnathr/main/assets/header-cyborg.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athulnathr/athulnathr/main/assets/header-cyborg.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athulnathr/athulnathr/main/assets/header-light.svg?v=2">
+  <img alt="Athul Nath — Lead UI Engineer. Human intent. Machine speed." src="https://raw.githubusercontent.com/athulnathr/athulnathr/main/assets/header-cyborg.svg?v=2" width="100%">
 </picture>
 
 ---
