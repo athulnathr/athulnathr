@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Athul Nath  Lead UI Engineer. Intent in. Production out.">
+  <defs>
+    <linearGradient id="bgL" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f4f4f8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bgL)"/>
+  <rect x="48" y="48" width="1104" height="224" fill="none" stroke="#d8dae4" stroke-width="1"/>
+
+  <!-- prompt bar -->
+  <rect x="80" y="72" width="1040" height="44" rx="6" fill="#f0f0f6" stroke="#d8dae4" stroke-width="1"/>
+  <text x="96" y="100" fill="#3344aa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">&gt;</text>
+  <text x="116" y="100" fill="#5a5e6e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">find me a lead UI engineer who ships at AI speed without shipping AI mistakes</text>
+  <rect x="1096" y="86" width="8" height="16" fill="#3344aa" opacity="0.9"/>
+
+  <!-- headline -->
+  <text x="80" y="168" fill="#1a1a28" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="42" font-weight="700" letter-spacing="-0.02em">Intent in. Production out.</text>
+
+  <!-- sub line -->
+  <text x="80" y="208" fill="#5a5e6e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">Lead UI Engineer · React · Next.js · agentic workflows · Kozhikode, IN</text>
+
+  <!-- status -->
+  <circle cx="96" cy="248" r="5" fill="#22c55e"/>
+  <text x="112" y="252" fill="#3344aa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">open to lead frontend roles · remote-friendly</text>
+
+  <!-- accent line -->
+  <rect x="80" y="286" width="1040" height="3" fill="#3344aa" opacity="0.15" rx="1.5"/>
+  <rect x="80" y="286" width="280" height="3" fill="#3344aa" rx="1.5"/>
+</svg>
