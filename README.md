@@ -1,121 +1,65 @@
-<!-- cyborg-themed profile README — source: cc-portfolio/docs/github-profile/ -->
-<!-- Deploy: see SETUP.md → copy to github.com/athulnathr/athulnathr -->
+<h1 align="center">Hi, I'm Athul 👋</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athulnathr/athulnathr/main/assets/header-cyborg.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athulnathr/athulnathr/main/assets/header-light.svg?v=2">
-  <img alt="Athul Nath — Lead UI Engineer. Human intent. Machine speed." src="https://raw.githubusercontent.com/athulnathr/athulnathr/main/assets/header-cyborg.svg?v=2" width="100%">
-</picture>
+<p align="center">
+  <b>Lead Software Engineer</b> · 9 years building with TypeScript, React, Next.js &amp; GraphQL<br/>
+  I lead frontend teams and build <i>the tools other engineers build on.</i>
+</p>
 
----
-
-### `> prompt`
-
-```text
-find me a lead UI engineer — half craft, half machine, fully accountable
-```
-
-I'm **Athul Nath** — Lead UI Engineer with 8+ years of React & Next.js. I direct agentic workflows — Cursor, Claude, CLI agents — to build interfaces at unreasonable speed, then **review, test and harden every line like it came from a stranger.** Because it did.
-
-<!-- PORTFOLIO_URL: uncomment when domain is live -->
-<!-- **Portfolio →** https://your-domain.com -->
+<p align="center">
+  <a href="https://linkedin.com/in/athulnath"><img src="https://img.shields.io/badge/LinkedIn-athulnath-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:id4athul@gmail.com"><img src="https://img.shields.io/badge/Email-id4athul%40gmail.com-ff6a3d?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Based_in-Kozhikode%2C_India-16181b?style=flat-square" alt="Kozhikode, India"/>
+  <img src="https://img.shields.io/badge/Open_to-Lead_%2F_Senior_roles_·_Relocation-1f9d63?style=flat-square" alt="Open to lead and senior roles"/>
+</p>
 
 ---
 
-## Selected work
+### 🧭 Right now
+
+- 🔭 **Senior Software Engineer (Contract) at Boston Scientific**, building a streaming AI knowledge platform in React + TypeScript
+- 🤖 Building an **AI-assisted code review &amp; merge gateway** on GitHub that checks every change before it reaches `main`
+- 🧱 Interested in frontend architecture, design systems, streaming AI interfaces and developer tooling
+- ✅ I use AI tools every day, and I still read and test every change before it ships
+
+### 📈 Highlights
 
 | | |
 |---|---|
-| **A YAML file you can talk to** · prevalent ai · enterprise saas | Self-serve, configuration-driven connector builder. Prototyped with intent-driven agentic workflows; shipped behind zero-regression gates. `weeks → hours` setup time. |
-| **200 nodes, one render budget** · prevalent ai · data platform | React Flow graph with 200+ live nodes — isolated state slices, memoized render budgets, interactive on analyst hardware. |
-| **One codebase, two platforms, two engineers** · entri.app · edtech | React WebView abstraction for 1M+ learners; Zoom-SDK live classes at thousands of concurrent users. |
+| **1M+** learners | on the edtech platform I led frontend for at entri.app |
+| **~40%** Lighthouse gain | on a data-heavy SaaS suite, from code splitting, virtualization and render tuning |
+| **~50%** less analyst effort | from a 200+ node graph workflow UI for an AI pipeline |
+| **Weeks → hours** | connector setup, after replacing it with a self-serve wizard |
+| **3 days → &lt;1 day** | QA review per release, after adding Cypress, Jest and RTL suites |
 
----
+### 🛠️ Selected work
 
-## Eight years, five teams
+- **AI code review &amp; merge gateway** (Boston Scientific): AI review built into the existing PR flow, so it isn't a separate step. *GitHub Actions · Claude · TypeScript*
+- **Streaming AI knowledge platform** (Boston Scientific): upload PDFs, sheets and images, then query them with answers that stream token by token. Handles skeleton states, retries and aborts. *React · TypeScript · RAG*
+- **Graph workflow interface** (Prevalent AI): 200+ nodes with real-time async updates. *React · REST*
+- **Shared design system** (Prevalent AI): accessible Radix UI primitives, documented in Storybook and used by several product teams. *Radix · Storybook · Tailwind*
+- **Cross-platform WebView layer** (entri.app): one learning experience for web and Android, which cut duplicate porting work by ~80%.
 
-```text
-2024 — 2026   Lead UI Engineer              Prevalent AI
-              Owned frontend architecture for enterprise SaaS;
-              AI-assisted delivery behind zero-regression gates.
+### 🧰 Toolkit
 
-2021 — 2024   Associate Tech Lead, Frontend entri.app
-              Core learning experiences for 1M+ learners;
-              cross-platform WebView architecture, live classes.
-
-2020 — 2021   Frontend Developer            CloudSEK
-              Migrated legacy apps to React; cut page load 35%;
-              real-time threat-monitoring dashboards.
-
-2018 — 2020   Software Development Engineer Metric Tree Labs
-              U.S. healthcare platform frontend; React + Laravel.
-
-2017 — 2018   Web UI Developer              WESIX IT Solutions
-              Responsive interfaces for a tax-management product.
-```
-
----
-
-## How I work with machines
-
-```yaml
-# everything below runs in production
-agentic:
-  tools: [cursor, claude, ai-cli]
-  practice: intent-driven ui, code hardening
-frontend:
-  core: [react, next.js, typescript]
-  styling: [css3, tailwind, framer-motion]
-architecture:
-  state: [zustand, redux-toolkit]
-  focus: render budgets, module boundaries
-quality:
-  gates: [cypress, jest, ci/cd]
-  non_negotiable: a11y, reduced-motion
-# regressions: 0  # keep it that way
-```
-
-<details>
-<summary><code>process.md</code> — four principles</summary>
-
-<br>
-
-**The prompt is the spec** — Ambiguous intent produces ambiguous UI. Constraints, edge cases, definition of done — so generated code starts closer to right.
-
-**Zero trust for generated code** — Every line gets the same treatment as a stranger's PR: typed boundaries, Cypress and Jest gates, zero-regression releases.
-
-**Architecture outlives velocity** — Module boundaries and state patterns (Zustand, isolated slices) keep rapidly generated code maintainable a year later.
-
-**Accessibility is in the definition of done** — Keyboard-complete, reduced-motion safe, focus-visible — not a post-ship audit.
-
-</details>
-
----
-
-## Connect
-
-```text
-> id4athul@gmail.com          mailto:id4athul@gmail.com?subject=Let's%20build
-  github/athulnathr             https://github.com/athulnathr
-  linkedin/athulnath            https://linkedin.com/in/athulnath
-  +91 80750 29374               tel:+918075029374
-```
-
-Have an interface in mind? **Say the word.** Lead frontend roles, complex UI systems, agentic-workflow consulting — if it involves React, rigor, and unreasonable delivery speed, I'm interested.
-
-<p align="left">
-  <a href="mailto:id4athul@gmail.com?subject=Let's%20build">
-    <img src="https://img.shields.io/badge/start_a_build-▸_id4athul@gmail.com-e84848?style=for-the-badge&labelColor=1a1a21" alt="Email: start a build">
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/athulnath">
-    <img src="https://img.shields.io/badge/linkedin-athulnath-7dd3fc?style=for-the-badge&labelColor=1a1a21" alt="LinkedIn">
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,graphql,redux&theme=dark" alt="Frontend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,php,laravel,postgres,mysql,prisma,redis&theme=dark" alt="Backend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,jest,cypress,storybook,git,figma&theme=dark" alt="Platform and testing"/>
 </p>
 
-<!-- Optional: profile views — third-party -->
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=athulnathr&color=e84848&style=flat-square&label=views) -->
+**Also:** Zustand · TanStack Query · Radix UI · React Testing Library · Claude &amp; Claude Code · RAG · Streaming AI UIs
 
-<p align="left">
-  <sub>kozhikode, in · © 2026 athul nath · human-directed, machine-amplified</sub>
+### 🤝 Beyond code
+
+I've hired, mentored and ramped up frontend engineers. I've worked in Agile teams spread across locations, and I like turning loosely defined problems into scoped, shippable work.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athulnathr&show_icons=true&hide_border=true&theme=transparent&title_color=ff6a3d&icon_color=ff6a3d" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulnathr&layout=compact&hide_border=true&theme=transparent&title_color=ff6a3d" height="160" alt="Top languages"/>
 </p>
+
+<p align="center"><sub>💬 Ask me about design systems, streaming UIs, or putting AI into a real code-review workflow.</sub></p>
